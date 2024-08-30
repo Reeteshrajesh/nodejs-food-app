@@ -6,6 +6,7 @@ MONGO_URL = mongodb+srv://username:password@cluster0.l98frwm.mongodb.net/food-ap
 JWT_SECRET = mysecretvalue)
 
 for running this project npm install and  use (npm run server)
+
 "dependencies": {
     bcryptjs
     colors
@@ -16,6 +17,7 @@ for running this project npm install and  use (npm run server)
     mongoose
     morgan
   }
+  
 use postman for client side 
 (✓ food-app
 AUTH
