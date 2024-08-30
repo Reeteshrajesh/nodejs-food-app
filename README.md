@@ -22,10 +22,12 @@ use postman for client side
 
 (✓ food-app
 AUTH
+
    POST register
    GET login
    
 User
+
    GET GET USER
    PUT UPDATE USER
    POST UPDATE PASSWORD
@@ -33,18 +35,21 @@ User
    DEL DELETE ACCOUNT
    
 RESTURANTS
+
    POST CREATE RESTURANT
    GET GET ALL RESTURANT
    GET GET RESTURANT BY ID
    DEL delete resturant
    
 CATEGORY
+
   GET CREATE CAT
   GET GET ALL CAT
   PUT UPDATE CAT
   DEL New Request
   
 FOOD
+
   POST CREATE FOOD
   GET GET ALL FOOD
   GET GET SINGLE FOOD
@@ -53,5 +58,6 @@ FOOD
   GET DELETE FOOD
   
 ORDERS
+
   GET PLACE ORDER
   GET ORDER STATUS) make apis.
