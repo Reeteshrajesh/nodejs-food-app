@@ -2,6 +2,7 @@
 (PORT = port no. 
 
 MONGO_URL = mongodb+srv://username:password@cluster0.l98frwm.mongodb.net/food-app
+username and password apana use karo
 
 JWT_SECRET = mysecretvalue)
 
